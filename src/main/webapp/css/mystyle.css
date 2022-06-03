@@ -1,0 +1,10 @@
+body{
+}
+.primary-background{
+    background: cornflowerblue!important;
+    position: static;
+    border-radius: 0px;
+}
+.curve-background{
+    clip-path: polygon(0 0, 80% 0%, 100% 0, 100% 92%, 63% 99%, 23% 93%, 0 100%, 0 28%);
+}
